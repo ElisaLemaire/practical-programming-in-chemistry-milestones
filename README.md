@@ -9,7 +9,7 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/ElisaLemaire                                             | 
 | 1    | Github Profile Page                         | https://github.com/ElisaLemaire/ElisaLemaire                                |
-| 1    | Commit and Push Change from Command Line    | https://github.com/ElisaLemaire/`repo-name`/commit/`commit-nr`                |
+| 1    | Commit and Push Change from Command Line    | [https://github.com/ElisaLemaire/`repo-name`/commit/`commit-nr` ](https://github.com/ElisaLemaire/ppchem/commit/eb7c7bd64217075469003d1de4fb47d1f6deaede)       |
 | 1    | Create a New Branch                         | [https://github.com/ElisaLemaire/README/tree/new-branch-name](https://github.com/ElisaLemaire/ppchem.git)       |
 | 1    | Create a conda environment                  | [env.yml](https://github.com/ElisaLemaire/ppchem/blob/main/env.yml)      |
 | 1    | Fork a Repo                                 | https://github.com/ElisaLemaire/practical-programming-in-chemistry-milestones |
